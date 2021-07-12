@@ -16,6 +16,6 @@
     "lambda-serve": "netlify-lambda serve functions",
     "lambda-build": "netlify-lambda build functions"
   },
-  "author": "",
+  "author": "Jeff H",
   "license": "ISC"
 }
