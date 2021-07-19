@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.21.1",
     "contentful": "^8.4.2",
     "contentful-management": "^7.27.1",
     "dotenv": "^10.0.0",
